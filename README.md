@@ -114,7 +114,8 @@ This project demonstrates several fundamental C++ programming concepts:
 ```text
 Tic-Tac-Toe/
 │
-├── main.cpp
+├── Tic Tac Toe game.cpp
+├── Tic Tac Toe game.exe
 └── README.md
 ```
 
